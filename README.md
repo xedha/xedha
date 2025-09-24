@@ -1,12 +1,12 @@
 <h1 align="center">Hey , I'm Redha</h1>
-<h3 align="center"> Software Engineering Student |  Member of Micro Club</h3>
+<h3 align="center"> Software Engineering Student </h3>
 
 ---
 <img src="https://i.pinimg.com/1200x/7d/0a/8a/7d0a8a75ade82db784699c413b96f536.jpg" width="100%">
 
 ###  About Me
 -  Currently learning **Web Development & Cybersecurity**  
--  Active member of **Micro Club IT and Gamedev**  
+-  Active member in the fields of **IT and Gamedev**  
 
 
 ---
