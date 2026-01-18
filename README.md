@@ -5,8 +5,7 @@
 <img src="https://i.pinimg.com/1200x/7d/0a/8a/7d0a8a75ade82db784699c413b96f536.jpg" width="100%">
 
 ###  About Me
--  Currently learning **Web Development & game Development**
--  
+-  Currently learning **Web Development & game Development**  
 ---
 
 ### 🛠️ Languages and Tools
